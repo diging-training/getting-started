@@ -9,3 +9,5 @@ This is an example repository, created to help you learn Git!
 * [Nischal Samji](http://github.com/nischalsamji)
 
 * [Haytham Amin](http://github.com/haythamamin)
+
+* [Pramodh Natarajan](http://github.com/pramodhn)
