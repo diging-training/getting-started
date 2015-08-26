@@ -12,4 +12,8 @@ Nicolette Furtado
 
 * [Pramodh Natarajan](http://github.com/pramodhn)
 
+<<<<<<< HEAD
 * [Anuran Duttaroy](http://github.com/anuranduttaroy)
+=======
+* [Ajay Kulkarni](http://github.com/nakapika)
+>>>>>>> 93f487f54dca25c6093c5f9a4f8b414dbc0bae03
