@@ -11,3 +11,5 @@ Nicolette Furtado
 * [Haytham Amin](http://github.com/haythamamin)
 
 * [Pramodh Natarajan](http://github.com/pramodhn)
+
+* [Anuran Duttaroy](http://github.com/anuranduttaroy)
