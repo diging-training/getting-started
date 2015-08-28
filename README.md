@@ -18,3 +18,5 @@ This is an example repository, created to help you learn Git!
 
 * [Ajay Kulkarni](http://github.com/nakapika)
 
+* [Shivam Prakash](https://github.com/shivamprakash) 
+
