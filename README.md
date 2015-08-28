@@ -4,6 +4,8 @@ This is an example repository, created to help you learn Git!
 
 ## Contributors
 
+* [Taruni Kancharla] (https://github.com/tkay33)
+
 * [Nicolette Furtado] (http://github.com/NicoletteFurtado)
 
 * [Erick Peirson](http://github.com/erickpeirson)
