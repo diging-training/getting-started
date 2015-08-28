@@ -20,3 +20,5 @@ This is an example repository, created to help you learn Git!
 
 * [Shivam Prakash](https://github.com/shivamprakash) 
 
+* {Parag Chaudhari}(http://github.com/parag2507)
+
