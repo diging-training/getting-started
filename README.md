@@ -30,3 +30,4 @@ This is an example repository, created to help you learn Git!
 
 * [Ravi Valiveti](https://github.com/ravikanth720)
 
+* [Nayely Velez-Cruz](https://github.com/nvelezcruz)
