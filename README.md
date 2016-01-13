@@ -33,3 +33,5 @@ This is an example repository, created to help you learn Git!
 * [Nayely Velez-Cruz](https://github.com/nvelezcruz)
 
 * [Genevieve Pirotte](https://github.com/genevieve-pirotte) 
+
+* [Kavinya Rajendran] (https://github.com/kavinya)
