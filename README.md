@@ -34,4 +34,4 @@ This is an example repository, created to help you learn Git!
 
 * [Genevieve Pirotte](https://github.com/genevieve-pirotte) 
 
-* [Prasanth Priya Nesan Soundra Pandian] (https://github.com/prasanthpriyanesan)
+* [Prasanth Priya Nesan Soundra Pandian ] (https://github.com/prasanthpriyanesan)
